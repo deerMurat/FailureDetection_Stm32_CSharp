@@ -1,0 +1,28 @@
+C:\Users\Murat\Desktop\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\Murat\Desktop\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\Murat\Desktop\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\Murat\Desktop\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\CSharp\CSharp\obj\Debug\CSharp.Form1.resources
+C:\Users\Murat\Desktop\CSharp\CSharp\obj\Debug\CSharp.Properties.Resources.resources
+C:\Users\Murat\Desktop\CSharp\CSharp\obj\Debug\CSharp.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\Murat\Desktop\CSharp\CSharp\obj\Debug\CSharp.pdb
+C:\Users\Murat\Desktop\MST\CSharp\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\Murat\Desktop\MST\CSharp\CSharp\obj\Debug\CSharp.exe
+C:\Users\Murat\Desktop\MST\CSharp\CSharp\obj\Debug\CSharp.pdb
+C:\Users\Murat\Desktop\MST\CSharp\CSharp\bin\Debug\CSharp.exe
+C:\Users\Murat\Desktop\MST\CSharp\CSharp\bin\Debug\CSharp.pdb
+C:\Users\Murat\Desktop\MST\CSharp\CSharp\obj\Debug\CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Murat\Desktop\MST\CSharp\CSharp\obj\Debug\CSharp.Form1.resources
+C:\Users\Murat\Desktop\MST\CSharp\CSharp\obj\Debug\CSharp.Properties.Resources.resources
+C:\Users\Murat\Desktop\MST\CSharp\CSharp\obj\Debug\CSharp.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\MST\CSharp - Kopya\CSharp\bin\Debug\CSharp.exe.config
+C:\Users\Murat\Desktop\MST\CSharp - Kopya\CSharp\obj\Debug\CSharp.exe
+C:\Users\Murat\Desktop\MST\CSharp - Kopya\CSharp\obj\Debug\CSharp.pdb
+C:\Users\Murat\Desktop\MST\CSharp - Kopya\CSharp\bin\Debug\CSharp.exe
+C:\Users\Murat\Desktop\MST\CSharp - Kopya\CSharp\bin\Debug\CSharp.pdb
+C:\Users\Murat\Desktop\MST\CSharp - Kopya\CSharp\obj\Debug\CSharp.Form1.resources
+C:\Users\Murat\Desktop\MST\CSharp - Kopya\CSharp\obj\Debug\CSharp.Properties.Resources.resources
+C:\Users\Murat\Desktop\MST\CSharp - Kopya\CSharp\obj\Debug\CSharp.csproj.GenerateResource.Cache
+C:\Users\Murat\Desktop\MST\CSharp - Kopya\CSharp\obj\Debug\CSharp.csprojAssemblyReference.cache
+C:\Users\Murat\Desktop\MST\CSharp - Kopya\CSharp\obj\Debug\CSharp.csproj.CoreCompileInputs.cache
